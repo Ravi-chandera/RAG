@@ -10,7 +10,7 @@ Large language models (LLMs) are powerful, but they have two key limitations:
 
 Retrieval addresses these problems by fetching relevant external knowledge at query time. This is the foundation of Retrieval-Augmented Generation (RAG): enhancing an LLM’s answers with context-specific information.
 
-We can do fine-tuning of LLM also, read [here](.\supplementary_readings\RAG_vs_Fine-tuning.md) when to choose RAG over fine-tuning.
+We can do fine-tuning of LLM also, read [here](supplementary_readings/RAG_vs_Fine-tuning.md) when to choose RAG over fine-tuning.
 
 # 1. Data Source 
 
