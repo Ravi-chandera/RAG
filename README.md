@@ -22,7 +22,7 @@ Our data needs to be in string formate. This string will be part of our prompt a
 
 This data can come from web scrapping, internal documents and pdfs stored in AWS S3, slack, notion, google drive etc.. 
 
-Our data is source is web scrapping wikipedia's pages related to marvel cinematic unviverse and saving them as txt file.
+Our data source is web scrapping wikipedia's pages related to marvel cinematic unviverse and saving them as txt file.
 
 - ### Web Scrapping
 
