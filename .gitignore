@@ -1,0 +1,4 @@
+.env
+data/
+data_from_s3/
+.env_sample
